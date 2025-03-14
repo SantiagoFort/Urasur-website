@@ -9,11 +9,12 @@ Link al sitio web: [www.urasur.com](https://www.urasur.com)
 - HTML, CSS y JavaScript** (Personalización y ajustes)  
 - Plugins utilizados: Elementor, WPForms, WooCommerce  
 
- Capturas de pantalla  
-https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(40).png
-https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(41).png
-https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(42).png
-https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(43).png
-https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(44).png
+ Capturas de pantalla    
+![Vista de la Home](https://raw.githubusercontent.com/SantiagoFort/Urasur-website/main/Captura%20de%20pantalla%20(40).png)  
+![Vista de Productos](https://raw.githubusercontent.com/SantiagoFort/Urasur-website/main/Captura%20de%20pantalla%20(41).png)  
+![Formulario de Contacto](https://raw.githubusercontent.com/SantiagoFort/Urasur-website/main/Captura%20de%20pantalla%20(42).png)  
+![Sección de Información](https://raw.githubusercontent.com/SantiagoFort/Urasur-website/main/Captura%20de%20pantalla%20(43).png)  
+![Vista Móvil](https://raw.githubusercontent.com/SantiagoFort/Urasur-website/main/Captura%20de%20pantalla%20(44).png)  
+
 
  
