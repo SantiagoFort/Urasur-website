@@ -10,7 +10,10 @@ Link al sitio web: [www.urasur.com](https://www.urasur.com)
 - Plugins utilizados: Elementor, WPForms, WooCommerce  
 
  Capturas de pantalla  
-[Vista previa de la web](ruta-de-tu-imagen.png)  
-*(Puedes agregar más imágenes aquí.)*  
+https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(40).png
+https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(41).png
+https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(42).png
+https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(43).png
+https://github.com/SantiagoFort/Urasur-website/blob/main/Captura%20de%20pantalla%20(44).png
 
  
